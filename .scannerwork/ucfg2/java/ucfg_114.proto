@@ -1,0 +1,33 @@
+
+WbusinessLogic.BLFacadeImplementation#getEventsMonth(Ljava/util/Date;)Ljava/util/Vector;{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaj  j(."startingBlock*€
+startingBlock{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaj. j(9»
+¸
+{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaj j(
+%0"
+__annotate*
+	WebMethod*
+
+datejava.util.Date®
+«
+{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaj4 j(8
+datejava.util.Date"__annotation*
+
+%0*
+1*É
+1{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javak k(©
+¦
+{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javal l(5
+datesjava.util.Vector"__id*
+"""š
+{
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javan n(
+
+datesjava.util.Vector:
+datejava.util.DateB(&
+$businessLogic.BLFacadeImplementation

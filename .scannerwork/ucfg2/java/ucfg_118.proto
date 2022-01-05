@@ -1,0 +1,132 @@
+
+VbusinessLogic.BLFacadeImplementation#tryToLogin(Ljava/lang/String;Ljava/lang/String;)Z}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaü ü("startingBlock*ö
+startingBlock}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaü ü(A≈
+¬
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaû û(
+%12"
+__annotate*
+	WebMethod*
+
+	pUsernamejava.lang.String∏
+µ
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaü% ü(.
+	pUsernamejava.lang.String"__annotation*
+
+%12≈
+¬
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaû û(
+%13"
+__annotate*
+	WebMethod*
+
+	pPasswordjava.lang.String∏
+µ
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaü7 ü(@
+	pPasswordjava.lang.String"__annotation*
+
+%13*
+15*Ï
+15}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java†	 †(⁄
+◊
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java†	 †(
+%0java.lang.String"__id*8*6&
+$businessLogic.BLFacadeImplementation"
+
+loggedUser*
+
+8
+11
+1*å
+6}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¨ ¨("á
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¨ ¨(
+""* 
+8}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java™ ™(´
+®
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java™ ™(
+%5java.io.PrintStream"__id*
+""íè
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java™ ™(0
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%5java.io.PrintStream*
+Try again, please.2println(Ljava/lang/String;)*
+6*å
+9}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaß ß("á
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaß ß(
+""*É
+10}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¶ ¶(´
+®
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¶ ¶(
+%1java.io.PrintStream"__id*
+""–
+Õ
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¶ ¶(.
+%2java.lang.String"__concat*	
+User *
+
+	pUsernamejava.lang.String‡
+›
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¶ ¶(O
+%3java.lang.String"__concat*
+
+%2java.lang.String* 
+ has logged in successfully.îë
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java¶ ¶(P
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%1java.io.PrintStream*
+
+%3java.lang.String2println(Ljava/lang/String;)*
+9*Ì
+11}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java§ §(·
+ﬁ
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java§ §(6&
+$businessLogic.BLFacadeImplementation"
+
+loggedUser"__id*
+
+	pUsernamejava.lang.String*
+10*î
+1}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaµ µ(¨
+©
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaµ µ(
+%10java.io.PrintStream"__id*
+""÷”
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.javaµ µ(o
+%11void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%10java.io.PrintStream*XV
+TSomeone is already logged in. To log in with another account reboot the application.2println(Ljava/lang/String;)"á
+}
+qC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/businessLogic/BLFacadeImplementation.java∑ ∑(
+"":
+	pUsernamejava.lang.String:
+	pPasswordjava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

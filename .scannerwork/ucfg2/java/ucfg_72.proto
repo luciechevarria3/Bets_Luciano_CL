@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaP P("1*³
+1c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaQ	 Q(ª
+§
+c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaQ	 Q(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumber­
+ª
+c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaQ	 Q(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+: ©
+¦
+c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaQ Q(%
+%2java.lang.String"__id*!*
+domain.Event"
+description¾
+»
+c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaQ	 Q(%
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"
+c
+YC:/Users/Luciano Echevarria/eclipse-workspace/Bets_Grupo7/src/main/java/domain/Event.javaQ Q(&
+
+%3java.lang.StringB
+domain.Event
