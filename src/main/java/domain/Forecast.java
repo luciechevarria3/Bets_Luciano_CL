@@ -6,7 +6,6 @@ import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-import gui.LoginRegisterGUI;
 
 @Entity
 public class Forecast {
@@ -30,7 +29,7 @@ public class Forecast {
 		this.question = pQuestion;
 		this.myBet = pBet;
 		this.myGuess = pGuess;
-		this.user = LoginRegisterGUI.getBusinessLogic().getLoggedUsername();
+		this.user = "Ejemplo";
 		this.win=win;
 	}
 	
